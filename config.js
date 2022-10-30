@@ -118,9 +118,9 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-	//  ['6281234288573'],
+	//  ['6285709420641'],
 	//['12546153210'],
-	['62895612153565', 'Johannes', true],
+	['6285709420641', 'Agung', true],
 	['6282287219167', 'Papah-Chan', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -153,10 +153,10 @@ global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '+62 822-8721-9167'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
+global.nomorbot = '6285794583615'
+global.nomorown = '628570942'
 global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nameown = 'Agung'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
